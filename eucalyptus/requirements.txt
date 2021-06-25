@@ -1,0 +1,17 @@
+node.js
+npm
+npx
+axios
+react-router-dom 
+react-redux 
+redux 
+redux-actions 
+immutable 
+styled-components 
+open-color 
+redux-pender 
+validator 
+lodash 
+query-string
+
+
